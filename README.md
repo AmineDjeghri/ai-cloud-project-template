@@ -15,12 +15,16 @@ Template for a new AI project :
 - logging
 - tests
 - github workflows
+- ggshield
 
 Additional features:
 - [Pull requests templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 - [Emojis in commits](https://gitmoji.dev/)
 - [Emojis in GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
--
+
+Additional MLOps templates:
+- https://github.com/fmind/mlops-python-package
+
 ## 1.1. Local installation
 ### 1.1.1. Local Prerequisites
 - Ubuntu 22.04 (latest)
